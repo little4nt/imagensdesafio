@@ -168,6 +168,7 @@ header .navbar a{
 
 .features .box-container .box img{
     width: 65px;
+    padding-top: 20px;
 }
 
 .features .box-container .box h2{
